@@ -1,0 +1,1 @@
+# node-eslint-prettier-typescript
